@@ -1,0 +1,12 @@
+[DEBUG]
+debug: True
+# options: (screen, console)
+print_to: console
+
+[SCREEN]
+width: 800
+height: 600
+fullscreen: false
+
+[FPS]
+fps: 60
