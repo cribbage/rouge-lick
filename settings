@@ -1,0 +1,15 @@
+[DEBUG]
+debug = True
+log_file = logfile
+# options(0+): file, console, game
+log_to = console, file
+
+[SCREEN]
+width = 800
+height = 600
+fullscreen = False
+
+[GAME]
+fps = 20
+# options(1): keyboard, controller
+controls = keyboard
